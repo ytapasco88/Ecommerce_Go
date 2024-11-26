@@ -4,13 +4,17 @@ import (
 	"Ecommerce_Go/godesde0/variables"
 )
 
-/* Hola, Mundo
+/* Hola, Mundo/*
 /*func main() {
 	fmt.Println(("Hola, Mundoi"))
 
 }
 */
 
-func main() {
+/*func main() {
 	variables.MuestroEnteros()
+}*/
+
+func main() {
+	variables.RestoVariables()
 }
