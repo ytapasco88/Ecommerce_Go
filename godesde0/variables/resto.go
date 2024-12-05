@@ -22,4 +22,6 @@ func RestoVariables() {
 	fmt.Println(Fecha)
 }
 
-func ConviertoaTexto(numero int) (bool, string) {}
+func ConviertoaTexto(numero int) (bool, string) {
+
+}
