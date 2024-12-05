@@ -21,3 +21,5 @@ func RestoVariables() {
 	fmt.Println(Sueldo)
 	fmt.Println(Fecha)
 }
+
+func ConviertoaTexto(numero int) (bool, string) {}
